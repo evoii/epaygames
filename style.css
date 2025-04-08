@@ -14,7 +14,7 @@ li:hover
 body
 {
     height: 100%;
-    background-image: url(/content/bg.png);
+    background-image: url(/Images/bg.png);
     z-index: -1;
     background-repeat: no-repeat;
     background-size: cover;
